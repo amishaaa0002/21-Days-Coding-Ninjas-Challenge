@@ -1,4 +1,4 @@
-## Coding Ninjas 21 Days Coding Challenge
+## Coding Ninjas 21 Days Coding Challenge 🏆
 
 🏆 I successfully completed the Coding Ninjas 21 Days Coding Challenge, a testament to my dedication and commitment to improving my coding skills.
 
@@ -6,34 +6,32 @@
 
 ## Coding Ninjas 21 Days Coding Challenge
 
-Congratulations! I successfully completed the Coding Ninjas 21 Days Coding Challenge, covering a wide range of coding topics and exercises. Here's a summary of what I accomplished during the challenge:
+I successfully completed the Coding Ninjas 21 Days Coding Challenge, covering a wide range of coding topics and exercises. Here's a summary of what I accomplished during the challenge:
 
-- **Day 01 - Data Type**: [Link to Code](link-to-code)
-- **Day 02 - if-else (Decision Making)**: [Link to Code](link-to-code)
-- **Day 03 - Sum of even and odd**: [Link to Code](link-to-code)
-- **Day 04 - 1 to N Without Loop**: [Link to Code](link-to-code)
-- **Day 05 - Sum Of First N Numbers**: [Link to Code](link-to-code)
-- **Day 06 - Check Armstrong**: [Link to Code](link-to-code)
-- **Day 07 - Look and Say Sequence**: [Link to Code](link-to-code)
-- **Day 08 - Terms of AP**: [Link to Code](link-to-code)
-- **Day 09 - Average Marks**: [Link to Code](link-to-code)
-- **Day 10 - Find Character Case**: [Link to Code](link-to-code)
-- **Day 11 - Crazy Numbers**: [Link to Code](link-to-code)
-- **Day 12 - Star Pattern**: [Link to Code](link-to-code)
-- **Day 13 - Fahrenheit to Celsius**: [Link to Code](link-to-code)
-- **Day 14 - Print Name**: [Link to Code](link-to-code)
-- **Day 15 - Count Frequency in a range**: [Link to Code](link-to-code)
-- **Day 16 - Largest Element in the Array**: [Link to Code](link-to-code)
-- **Day 17 - Linear Search**: [Link to Code](link-to-code)
-- **Day 18 - Remove Duplicates from Sorted Array**: [Link to Code](link-to-code)
-- **Day 19 - Duplicate In Array**: [Link to Code](link-to-code)
-- **Day 20 - Sum Of Max And Min**: [Link to Code](link-to-code)
-- **Day 21 - Check Difference**: [Link to Code](link-to-code)
-
-Feel free to explore the individual code solutions by clicking on the provided links.
+- **Day 01 - Data Type**: 
+- **Day 02 - if-else (Decision Making)**
+- **Day 03 - Sum of even and odd**
+- **Day 04 - 1 to N Without Loop**
+- **Day 05 - Sum Of First N Numbers**
+- **Day 06 - Check Armstrong**
+- **Day 07 - Look and Say Sequence**
+- **Day 08 - Terms of AP**
+- **Day 09 - Average Marks**
+- **Day 10 - Find Character Case**
+- **Day 11 - Crazy Numbers**
+- **Day 12 - Star Pattern**
+- **Day 13 - Fahrenheit to Celsius**
+- **Day 14 - Print Name**
+- **Day 15 - Count Frequency in a range**
+- **Day 16 - Largest Element in the Array**
+- **Day 17 - Linear Search**
+- **Day 18 - Remove Duplicates from Sorted Array**
+- **Day 19 - Duplicate In Array**
+- **Day 20 - Sum Of Max And Min**
+- **Day 21 - Check Difference**
 
 This challenge has been a great learning experience for me, and I look forward to continuing my coding journey.
-
+Challenge began on 13th August 2023 Battle ended on 3rd September 2023
 
 ### Certificates
 
