@@ -1,6 +1,6 @@
 ## Coding Ninjas 21 Days Coding Challenge 🏆
 
-🏆 I successfully completed the Coding Ninjas 21 Days Coding Challenge, a testament to my dedication and commitment to improving my coding skills.
+I successfully completed the Coding Ninjas 21 Days Coding Challenge, a testament to my dedication and commitment to improving my coding skills.
 
 ### What I Learned
 
